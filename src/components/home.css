@@ -1,0 +1,22 @@
+h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    padding-top: 1rem;
+    color: rgb(6, 165, 213);
+    font-weight: bolder;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(6, 165, 213);
+}
+
+.seccion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    text-align: justify;
+    justify-content: space-between;
+}

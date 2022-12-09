@@ -1,0 +1,27 @@
+.nuestra-empresa {
+    margin-right: 0%;
+    width: 1200px;
+    display: inline;
+    overflow: auto;
+    text-align: justify;
+
+}
+.Grids {
+
+    align-items: stretch;
+    justify-content: center;
+
+}
+.seccion-segunda {
+
+    width: auto;
+
+
+
+}
+.seccion-tercera {
+
+    width: auto;
+
+
+}
