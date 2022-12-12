@@ -20,3 +20,9 @@ h3 {
     text-align: justify;
     justify-content: space-between;
 }
+
+/* teléfonos modo vertical 320--------------- */
+
+@media(min-width:320px) {
+
+}

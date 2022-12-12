@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Plantilla from './Plantilla/Plantilla';
+import Plantilla from './Plantilla/Plantilla.js';
 import "./productos.css"
 
 const ProductosEnVenta = () => {
